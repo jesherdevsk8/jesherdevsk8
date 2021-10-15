@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>#whoami</h1>
+  <h1>Jesher Minelli</h1>
 
   Sou estudante de Análise e Desenvolvimento de sistemas. Entusiasta Linux, C#, .Net e SQL - SQL Server. Atualmente Usando DualBoot Windows e Linux <br>
   <a href="https://www.linkedin.com/in/jesher-minelli-913391220/" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Siga-me no LinkedIn"></a>
