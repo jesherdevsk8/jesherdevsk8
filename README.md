@@ -2,7 +2,7 @@
   
   <h1>Jesher Minelli</h1>
 
-  Sou estudante de Análise e Desenvolvimento de sistemas. Entusiasta Linux, C#, .Net e SQL - SQL Server. Atualmente Usando DualBoot Windows e Linux <br>
+  Sou estudante de Análise e Desenvolvimento de sistemas. Entusiasta Linux, C#, .Net e SQL (SQL Server). <br>Atualmente Usando DualBoot Windows e Linux <br>
   <a href="https://www.linkedin.com/in/jesher-minelli-913391220/" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Siga-me no LinkedIn"></a>
   <a href="mailto:jesherdevsk8@gmail.com" rel="external"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Siga-me no LinkedIn"></a>
   <hr>
