@@ -2,7 +2,7 @@
   
   <h1>Jesher Minelli</h1>
 
-  Estudante de Análise e Desenvolvimento de sistemas. Possuo conhecimentos em desenvolvimento web (HTML, CSS, ASP.NET MVC), linux, ssh, Git e Github, C# e (CRUD)SQL - SQL Server <br>
+  Estudante de Análise e Desenvolvimento de sistemas. Possuo conhecimentos em desenvolvimento web (HTML, CSS, ASP.NET MVC), linux, shell script, ssh, Git e Github, C# e (CRUD)SQL - SQL Server <br>
   <a href="https://www.linkedin.com/in/jesher-minelli-913391220/" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Siga-me no LinkedIn"></a>
   <a href="mailto:jesherdevsk8@gmail.com" rel="external"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Siga-me no LinkedIn"></a>
   <hr>
@@ -10,8 +10,9 @@
   <hr>
 
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
-  <img alt="Manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
+  <img alt="Linux_MInt" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" />
   <img alt="Zsh" src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white" />
+  <img alt="ShellScript" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt"HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt"CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
