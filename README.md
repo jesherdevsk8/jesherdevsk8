@@ -2,7 +2,7 @@
   
   <h1>Jesher Minelli</h1>
 
-  Estudante de Análise e Desenvolvimento de sistemas. Possuo conhecimentos em desenvolvimento web (HTML, CSS, ASP.NET MVC), linux, shell script, ssh, Git e Github, C# e (CRUD)SQL - SQL Server <br>
+  Estudante de Análise e Desenvolvimento de sistemas. Possuo conhecimentos em desenvolvimento web (HTML, CSS, ASP.NET MVC), PHP, Linux, Shell Script, ssh, Git e Github, C# e SQL <br>
   <a href="https://www.linkedin.com/in/jesher-minelli-913391220/" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Siga-me no LinkedIn"></a>
   <a href="mailto:jesherdevsk8@gmail.com" rel="external"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Siga-me no LinkedIn"></a>
   <hr>
