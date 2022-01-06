@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1>Jesher Minelli</h1>
-  Estudante de análise e desenvolvimento de sistemas, atualmente com foco em desenvolvimento web. Sou um grande entusiasta do sistema GNU/Linux na qual estudo diariamente . Possuo uma grande "psicose" por tudo que faz parte do console/terminal e Shell Script. Conheço Git e Github,  MySql, SQL Server, PHP, C#, HTML5, CCS3, Apache2, SSH.
+  Estudante de análise e desenvolvimento de sistemas, atualmente com foco em desenvolvimento web. Sou um grande entusiasta do sistema GNU/Linux na qual estudo diariamente . Possuo uma grande "psicose" por tudo que faz parte do console/terminal e Shell Script. Conheço Git e Github,  MySql, SQL Server, PHP, C#, HTML5, CCS3, Apache2, Lamp SSH.
   <br>
   <a href="https://www.linkedin.com/in/jesher-minelli-913391220/" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Siga-me no LinkedIn"></a>
   <a href="mailto:jesherdevsk8@gmail.com" rel="external"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Siga-me no LinkedIn"></a>
@@ -20,6 +20,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img alt="SqlServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-  <img alt="DotNet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="MySql" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img alt="Lamp Server" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
 </div>
