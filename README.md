@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1>Jesher Minelli</h1>
-  Estudante de análise e desenvolvimento de sistemas, atualmente com foco em desenvolvimento web. Sou um grande entusiasta do sistema GNU/Linux na qual estudo diariamente . Possuo uma grande "psicose" por tudo que faz parte do console/terminal e Shell Script. Conheço Git e Github,  MySql, SQL Server, PHP, C#, HTML5, CCS3, Apache2, Lamp SSH.
+  Estudante de análise e desenvolvimento de sistemas, atualmente com foco em desenvolvimento web. Sou um grande entusiasta do sistema GNU/Linux na qual estudo diariamente . Possuo uma grande "psicose" por tudo que faz parte do console/terminal e Shell Script. Conheço Git e Github,  MySql, SQL Server, PHP, C#, HTML5, CCS3, Apache2, Lamp, SSH.
   <br>
   <a href="https://www.linkedin.com/in/jesher-minelli-913391220/" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Siga-me no LinkedIn"></a>
   <a href="mailto:jesherdevsk8@gmail.com" rel="external"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Siga-me no LinkedIn"></a>
