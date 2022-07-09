@@ -17,5 +17,5 @@
   <br>
   <hr>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={jesherdevsk8}">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username={jesherdevsk8}"></a>
 </div>
