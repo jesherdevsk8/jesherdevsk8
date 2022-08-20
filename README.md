@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1>Jesher Minelli</h1>
-  Desenvolvedor Ruby on Rails.<br>Grande entusiasta do sistema GNU/Linux. Possuo uma grande "psicose" por tudo que faz parte do console/terminal e Shell Script.
+  Desenvolvedor Ruby on Rails.<br> Grande entusiasta do sistema GNU/Linux. Possuo sólidos conhecimentos no S.O, Shell Script e tudo que envolve a     filosofia de software livre e open source, além de ter uma grande "psicose" por tudo que faz parte do console/terminal.
   <br><br>
   <a href="https://www.linkedin.com/in/jesher-minelli-913391220/" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Siga-me no LinkedIn"></a>
   <br>
