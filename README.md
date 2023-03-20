@@ -1,13 +1,13 @@
 <div align="center">
   
   <h1>Jesher Minelli</h1>
-  Desenvolvedor Ruby on Rails.<br> Grande entusiasta do sistema GNU/Linux, e tudo que faz parte do Console/Terminal e Shell Script
+  Ruby on Rails Developer - Free and Open Source Software enthusiast. He is passionate about GNU/Linux, DevOps tools, Cloud, Software Development and Learning Programing Languages.
   <br><br>
   <a href="https://www.linkedin.com/in/jesher-minelli-913391220/" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Siga-me no LinkedIn"></a>
   <a href="https://codeberg.org/jesherminelli" rel="external"><img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white" alt="Siga-me no LinkedIn"></a>
   <br>
   <hr>
-
+  
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="ShellScript" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
