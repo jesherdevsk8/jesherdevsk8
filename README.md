@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1>Jesher Minelli</h1>
-  Backend Developer - Free and Open Source Software enthusiast. He is passionate about GNU/Linux, DevOps tools, Cloud, Software Development and Learning Programing Languages.
+  Free and Open Source Software enthusiast. Passionate about GNU/Linux, DevOps tools, cloud computing, learning programming languages, and exploring new technologies.
   <br><br>
   <a href="https://www.linkedin.com/in/jesher-minelli-913391220/" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Siga-me no LinkedIn"></a>
   <a href="https://codeberg.org/jesherminelli" rel="external"><img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white" alt="Siga-me no LinkedIn"></a>
