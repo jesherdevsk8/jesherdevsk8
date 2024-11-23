@@ -1,23 +1,34 @@
 <div align="center">
   
   <h1>Jesher Minelli</h1>
-  Free and Open Source Software enthusiast. Passionate about GNU/Linux, DevOps tools, cloud computing, learning programming languages, and exploring new technologies.
-  <br><br>
-  <a href="https://www.linkedin.com/in/jesher-minelli-913391220/" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Siga-me no LinkedIn"></a>
-  <a href="https://codeberg.org/jesherminelli" rel="external"><img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white" alt="Siga-me no LinkedIn"></a>
-  <br>
-  <hr>
-  
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="ShellScript" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
-  <img alt="Zsh" src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white" />
-  <img alt="bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" /><br>
-  <img alt="OCI" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img alt="Gitlab-CI" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-  <br>
-  <hr>
+  <p><strong>Backend Developer | Rubist | DevOps Enthusiast</strong></p>
 
+  <br>
+
+  <p>
+    <a href="https://www.linkedin.com/in/jesher-minelli-913391220/" rel="external" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://codeberg.org/jesherminelli" rel="external" target="_blank">
+      <img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white" alt="Codeberg">
+    </a>
+  </p>
+
+  <hr style="border: 1px solid #ddd; width: 80%; margin: 20px auto;">
+
+  <h2>Main Technologies I Work With</h2>
+  <p>
+    <img src="https://github.com/jesherdevsk8/images/blob/main/linux.png?raw=true" alt="Linux" width="65" height="65">
+    <img src="https://github.com/jesherdevsk8/images/blob/main/openssh.png?raw=true" alt="OpenSSH" width="50" height="50">
+    <img src="https://github.com/jesherdevsk8/images/blob/main/shellscript.png?raw=true" alt="Shell Script" width="60" height="60">
+    <img src="https://github.com/jesherdevsk8/images/blob/main/debian.png?raw=true" alt="Debian" width="60" height="60">
+    <img src="https://github.com/jesherdevsk8/images/blob/main/docker.png?raw=true" alt="Docker" width="90" height="80">
+    <img src="https://github.com/jesherdevsk8/images/blob/main/ruby.png?raw=true" alt="Ruby" width="70" height="60">
+    <img src="https://github.com/jesherdevsk8/images/blob/main/sinatra.svg?raw=true" alt="Sinatra" width="70" height="60">
+    <img src="https://github.com/jesherdevsk8/images/blob/main/rails.png?raw=true" alt="Ruby on Rails" width="80" height="70">
+    <img src="https://github.com/jesherdevsk8/images/blob/main/aws.png?raw=true" alt="AWS" width="90" height="50">
+    <img src="https://github.com/jesherdevsk8/images/blob/main/heroku.png?raw=true" alt="Heroku" width="130" height="40">
+  </p>
+
+  <hr style="border: 1px solid #ddd; width: 80%; margin: 20px auto;">
 </div>
