@@ -22,7 +22,7 @@
     <img src="https://github.com/jesherdevsk8/images/blob/main/openssh.png?raw=true" alt="OpenSSH" width="50" height="50">
     <img src="https://github.com/jesherdevsk8/images/blob/main/shellscript.png?raw=true" alt="Shell Script" width="60" height="60">
     <img src="https://github.com/jesherdevsk8/images/blob/main/debian.png?raw=true" alt="Debian" width="60" height="60">
-    <img src="https://github.com/jesherdevsk8/images/blob/main/docker.png?raw=true" alt="Docker" width="90" height="80">
+    <img src="https://github.com/jesherdevsk8/images/blob/main/docker.png?raw=true" alt="Docker" width="70" height="60">
     <img src="https://github.com/jesherdevsk8/images/blob/main/ruby.png?raw=true" alt="Ruby" width="70" height="60">
     <img src="https://github.com/jesherdevsk8/images/blob/main/sinatra.svg?raw=true" alt="Sinatra" width="70" height="60">
     <img src="https://github.com/jesherdevsk8/images/blob/main/rails.png?raw=true" alt="Ruby on Rails" width="80" height="70">
